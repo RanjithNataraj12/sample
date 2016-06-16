@@ -8,6 +8,6 @@ public class chardemo {
         ch1='x';
         ch2='y';
 
-        System.out.print(ch1);
+        System.out.print(ch1+"     "+ch2);
     }
 }
